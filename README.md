@@ -3,6 +3,7 @@
 
 [![Linkedin: Minh Pham Dinh](https://img.shields.io/badge/-minhhpd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minh-pham-dinh-766b96161/)](https://www.linkedin.com/in/minh-pham-dinh-766b96161/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/minhphd?label=follow&style=social)](https://github.com/minhphd)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fminhphd&label=visitors&countColor=%23263759&style=plastic)
 
 ## About me
 - 🧑‍🎓 A Computer Science Undergraduate at Colby College.
