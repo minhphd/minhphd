@@ -6,8 +6,7 @@
 <a href="https://github.com/minhphd">
   <img align="left" alt="Minh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br />
-<img style="width:90%; height:auto;" align="right" alt="GIF" src="https://media3.giphy.com/media/l4pTldWDec8WamJUc/giphy.gif?cid=ecf05e4704lf57nyl11xm4qka4q0i3zcnailifu74at5kqri&rid=giphy.gif&ct=g" />
+<br/>
 
 ## About me
 - 🧑‍🎓 A Computer Science Undergraduate at Colby College.
@@ -19,5 +18,11 @@
 - 👀 Currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 **I love to make stuffs**
+
+<br/>
+<div>
+  <img style="width:100%; height:auto; display:block; margin-left:auto; margin-right:auto;" alt="GIF" src="https://media3.giphy.com/media/l4pTldWDec8WamJUc/giphy.gif?cid=ecf05e4704lf57nyl11xm4qka4q0i3zcnailifu74at5kqri&rid=giphy.gif&ct=g" />
+</div>
+<br/>
 
 ⭐️ From [@minhphd](https://github.com/minhphd)
