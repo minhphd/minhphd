@@ -7,7 +7,7 @@
   <img align="left" alt="Minh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/l4pTldWDec8WamJUc/giphy.gif?cid=ecf05e4704lf57nyl11xm4qka4q0i3zcnailifu74at5kqri&rid=giphy.gif&ct=g" />
+<img style="max-width:50%; height:auto" align="right" alt="GIF" src="https://media3.giphy.com/media/l4pTldWDec8WamJUc/giphy.gif?cid=ecf05e4704lf57nyl11xm4qka4q0i3zcnailifu74at5kqri&rid=giphy.gif&ct=g" />
 
 ### About me
 - An Computer Science Undergraduate at Colby College.
