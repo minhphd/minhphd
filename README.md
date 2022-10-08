@@ -18,6 +18,6 @@
 
 - 👀 Currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-**I love to make stuffs*
+**I love to make stuffs**
 
 ⭐️ From [@minhphd](https://github.com/minhphd)
