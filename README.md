@@ -9,11 +9,14 @@
 <br />
 <img style="width:90%; height:auto;" align="right" alt="GIF" src="https://media3.giphy.com/media/l4pTldWDec8WamJUc/giphy.gif?cid=ecf05e4704lf57nyl11xm4qka4q0i3zcnailifu74at5kqri&rid=giphy.gif&ct=g" />
 
-### About me
-- An Computer Science Undergraduate at Colby College.
-- Embedded software and aerospace enthusiast.
-- Currently learning about Java and Datastructure and Algorithm.
-- Currently looking for opportunities. I love to learn and contribute in any and every possible way.
+## About me
+- 🧑‍🎓 A Computer Science Undergraduate at Colby College.
+
+- 🚀 Embedded software and aerospace enthusiast.
+
+- 📖 Currently learning about Java and Datastructure and Algorithm.
+
+- 👀 Currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 **I love to make stuffs*
 
