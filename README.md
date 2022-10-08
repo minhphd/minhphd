@@ -1,12 +1,8 @@
-# Hi, I'm Minh! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+ I'm an international student from Vietnam with a love for Math and Physics. I'm currently studying CS and Astrophysics at Colby College in Waterville, Maine.
 
-<a href="https://www.linkedin.com/in/minh-pham-dinh-766b96161/">
-  <img align="left" alt="Minh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/minhphd">
-  <img align="left" alt="Minh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br/>
+[![Linkedin: Minh Pham Dinh](https://img.shields.io/badge/-minhhpd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minh-pham-dinh-766b96161/)](https://www.linkedin.com/in/minh-pham-dinh-766b96161/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/minhphd?label=follow&style=social)](https://github.com/minhphd)
 
 ## About me
 - 🧑‍🎓 A Computer Science Undergraduate at Colby College.
