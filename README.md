@@ -10,7 +10,7 @@
 
 🚀 **Embedded software** and **aerospace** enthusiast.
 
-📖 Currently learning about **Java and Datastructure and Algorithm**.
+📖 Currently learning about **Data Visualization and Analysis**.
 
 👀 Currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
