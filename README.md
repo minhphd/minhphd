@@ -6,13 +6,11 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/minhphd?label=follow&style=social)](https://github.com/minhphd)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fminhphd&label=visitors&countColor=%23263759&style=plastic)
 
-🧑‍🎓 A Computer Science and Astrophysics Undergraduate at **Colby College**.
+🧑‍🎓 Studying Computer Science with concentration in Neural Network at **Colby College**.
 
-🚀 **Embedded software** and **aerospace** enthusiast.
+🚀 **Artificial Intelligence** and **Aerospace** enthusiast.
 
-📖 Currently learning about **Data Visualization and Analysis**.
-
-👀 Currently looking for opportunities. I love to learn and contribute in any and every possible way.
+👀 Actively seeking a summer internship in software development.
 
 
 <br/>
