@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
- <h3 align="center">International student from Vietnam with a love for Math and Physics</h3>
+ <h3 align="center">Passionate software developer</h3>
 <br />
-
-[![Linkedin: Marc Pham Dinh](https://img.shields.io/badge/-Marc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marc-pham-dinh-766b96161)](www.linkedin.com/in/marc-pham-dinh-766b96161)
-[![GitHub Thaiane](https://img.shields.io/github/followers/minhphd?label=follow&style=social)](https://github.com/minhphd)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fminhphd&label=visitors&countColor=%23263759&style=plastic)
 
 🧑‍🎓 Studying Computer Science with concentration in Neural Network at **Colby College**.
 
-🚀 **Artificial Intelligence** and **Aerospace** enthusiast.
+🌱 Currently learning **Splunk Enterprise**
+
+🚀 **Artificial Intelligence**, **Aerospace**, and **Baseball** enthusiast.
 
 👀 Actively seeking a summer internship in software development.
-
 
 <br/>
 <div>
