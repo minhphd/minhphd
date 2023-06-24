@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Minh Pham Dinh</h1>
+<h1 align="center">Hi 👋, I'm Marc</h1>
  <h3 align="center">International student from Vietnam with a love for Math and Physics</h3>
 <br />
 
-[![Linkedin: Minh Pham Dinh](https://img.shields.io/badge/-minhhpd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minh-pham-dinh-766b96161/)](https://www.linkedin.com/in/minh-pham-dinh-766b96161/)
+[![Linkedin: Marc Pham Dinh](https://img.shields.io/badge/-Marc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marc-pham-dinh-766b96161)](www.linkedin.com/in/marc-pham-dinh-766b96161)
 [![GitHub Thaiane](https://img.shields.io/github/followers/minhphd?label=follow&style=social)](https://github.com/minhphd)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fminhphd&label=visitors&countColor=%23263759&style=plastic)
 
