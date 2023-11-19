@@ -4,11 +4,11 @@
 
 🧑‍🎓 Studying Computer Science with concentration in Neural Network at **Colby College**.
 
-🌱 Currently learning **Splunk Enterprise**
+🌱 Currently learning **Reinforcement Learning**
 
 🚀 **Artificial Intelligence**, **Aerospace**, and **Baseball** enthusiast.
 
-👀 Actively seeking a summer internship in software development.
+👀 Actively seeking a summer internship in Data Science.
 
 <br/>
 <div>
