@@ -4,7 +4,7 @@
 
 🧑‍🎓 Studying Computer Science with concentration in Neural Network at **Colby College**.
 
-🌱 Currently learning **Reinforcement Learning**
+🌱 Currently learning **Specialized Reinforcement Learning**
 
 🚀 **Artificial Intelligence**, **Aerospace**, and **Baseball** enthusiast.
 
