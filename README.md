@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
- <h3 align="center">Passionate software developer</h3>
+ <h3 align="center">Aspiring Deep Reinforcement Learning researcher</h3>
 <br />
 
 🧑‍🎓 Studying Computer Science with concentration in Neural Network at **Colby College**.
@@ -7,8 +7,6 @@
 🌱 Currently learning **Multi-Agent Reinforcement Learning**
 
 🚀 **Artificial Intelligence**, **Aerospace**, and **Baseball** enthusiast.
-
-👀 Actively seeking a summer internship in Data Science.
 
 <br/>
 <div>
