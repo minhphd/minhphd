@@ -17,10 +17,10 @@
 
 
 ### 🎥 Check Out These Highlights!
-<!-- Replace with actual GIF links -->
-![RLforDummy GIF](URL)
-![N-body GIF](URL)
-
+<div align="center">
+  <img src="https://github.com/minhphd/RLforDummy/blob/main/ppo.gif" alt="PPO LunarLander" width="45%"/>
+  <img src="https://github.com/minhphd/RLforDummy/blob/main/breakout.gif" alt="Breakout" width="23%"/>
+</div>
 
 ### 📣 Let's Connect!
 - 📧 Email: [mhpham26@colby.edu](mailto:mhpham26@colby.edu)
