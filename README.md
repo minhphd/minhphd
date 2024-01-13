@@ -15,7 +15,7 @@
 
 ### 📚 Projects & Research
 - **[RLforDummy](https://github.com/minhphd/RLforDummy)**: Exploring RL algorithms for practical applications.
-- **[N-body-simulation](https://github.com/minhphd/N-body-simulation)**: A Java-based simulation modeling the dynamics of celestial objects.
+- **[N-body-simulation](https://github.com/minhphd/N-body-simulation)**: A Python-based simulation modeling the dynamics of celestial objects.
 - 🌠 **[Namesake-Scoped](https://github.com/minhphd/Namesake-Scoped)**: A Python Checker for Lexical Similarity in Identifier Names.
 
 ---
