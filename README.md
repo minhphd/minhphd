@@ -1,22 +1,26 @@
-# 👋 Hey there, I'm Minh!
+# Hi, I'm Minh 👋
 
-### 🚀 **Exploring the Intersections of Computer Science & Math at Colby College**
+🎓 **Computer Science and Math Student at Colby College**
 
 ---
 
-🌟 **What Drives Me?**
-- 🤖 Reinforcement Learning & Space
-- 🔍 Seeking Efficiency in Algorithms
-- 🌌 Blending Math with Computation
+### 🌌 About Me
+- 🚀 Aspiring in the field of **Safe Reinforcement Learning** in space exploration.
+- 🤖 Passionate about **improving sample efficiency of Reinforcement Learning**.
+- 🔭 Currently diving deep into **Multi-Agent Reinforcement Learning**.
+- ⚾️ Enthusiast in **Artificial Intelligence, Aerospace, and Baseball**.
+- 🌟 Striving to merge **mathematical rigor and computational power** to push the boundaries of AI.
 
+---
 
-📚 **Cool Projects I've Worked On**
-- [RLforDummy](https://github.com/minhphd/RLforDummy) - My RL Playground!
-- [N-body-simulation](https://github.com/minhphd/N-body-simulation) - Dancing with Stars!
-- [Namesake-Scoped](https://github.com/minhphd/Namesake-Scoped) - The Art of Code Names
+### 📚 Projects & Research
+- **[RLforDummy](https://github.com/minhphd/RLforDummy)**: Exploring RL algorithms for practical applications.
+- **[N-body-simulation](https://github.com/minhphd/N-body-simulation)**: A Java-based simulation modeling the dynamics of celestial objects.
+- 🌠 **[Namesake-Scoped](https://github.com/minhphd/Namesake-Scoped)**: A Python Checker for Lexical Similarity in Identifier Names.
 
+---
 
-### 🎥 Check Out These Highlights!
+### 🎥 Project Highlights
 <div align="center">
   <img src="https://github.com/minhphd/RLforDummy/blob/main/ppo.gif" alt="PPO LunarLander" width="45%"/>
   <img src="https://github.com/minhphd/RLforDummy/blob/main/breakout.gif" alt="Breakout" width="23%"/>
@@ -28,7 +32,6 @@
 - 💼 Portfolio: [minhphd.github.io](https://minhphd.github.io)
 
 ---
-
 
 
 *“Exploring the cosmos, one line of code at a time.”*
