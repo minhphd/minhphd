@@ -1,4 +1,4 @@
-# Hi, I'm Minh 👋
+# Hi, I'm Marc 👋
 
 🎓 **Computer Science and Math Student at Colby College**
 
