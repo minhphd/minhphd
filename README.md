@@ -5,17 +5,16 @@
 ---
 
 ### 🌌 About Me
-- 🚀 Aspiring in the field of **Safe Reinforcement Learning** in space exploration.
-- 🤖 Passionate about **improving sample efficiency of Reinforcement Learning**.
-- 🔭 Currently diving deep into **Multi-Agent Reinforcement Learning**.
+- 🚀 Aspiring in the field of **Reinforcement Learning**.
+- 🔭 Currently diving deep into **Safe Reinforcement Learning**.
 - ⚾️ Enthusiast in **Artificial Intelligence, Aerospace, and Baseball**.
-- 🌟 Striving to merge **mathematical rigor and computational power** to push the boundaries of AI.
+- 🌟 Striving to improve the safety and reliability of AI, pushing the boundary of human exploration.
 
 ---
 
 ### 📚 Projects & Research
 - **[RLforDummy](https://github.com/minhphd/RLforDummy)**: Exploring RL algorithms for practical applications.
-- **[N-body-simulation](https://github.com/minhphd/N-body-simulation)**: A Python-based simulation modeling the dynamics of celestial objects.
+- **[N-body-simulation](https://github.com/minhphd/N-body-simulation)**: A Python-based n-body system simulator.
 - 🌠 **[Namesake-Scoped](https://github.com/minhphd/Namesake-Scoped)**: A Python Checker for Lexical Similarity in Identifier Names.
 
 ---
