@@ -21,8 +21,9 @@
 
 ### 🎥 Project Highlights
 <div align="center">
-  <img src="https://github.com/minhphd/RLforDummy/blob/main/ppo.gif" alt="PPO LunarLander" width="45%"/>
-  <img src="https://github.com/minhphd/RLforDummy/blob/main/breakout.gif" alt="Breakout" width="23%"/>
+  <img src="https://github.com/minhphd/RLforDummy/blob/main/ppo.gif" alt="PPO LunarLander" width="40%"/>
+  <img src="https://github.com/minhphd/RLforDummy/blob/main/breakout.gif" alt="Breakout" width="20%"/>
+  <img src="https://github.com/minhphd/RLforDummy/blob/main/humanoid.gif" alt="Humanoid" width="28%"/>
 </div>
 
 ### 📣 Let's Connect!
