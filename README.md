@@ -6,7 +6,7 @@
 
 ### 🌌 About Me
 - 🚀 Aspiring in the field of **Reinforcement Learning**.
-- 🔭 Currently diving deep into **Safe Reinforcement Learning**.
+- 🔭 Currently diving deep into **Model-based Reinforcement Learning**.
 - ⚾️ Enthusiast in **Artificial Intelligence, Aerospace, and Baseball**.
 - 🌟 Striving to improve the safety and reliability of AI, pushing the boundary of human exploration.
 
