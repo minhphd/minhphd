@@ -13,7 +13,7 @@
 ---
 
 ### 📚 Projects & Research
-- **[RLforDummy](https://github.com/minhphd/RLforDummy)**: Exploring RL algorithms for practical applications.
+- **[RLforDummy](https://github.com/minhphd/RLforDummy)**: Clean implementations of model free algorithms.
 - **[N-body-simulation](https://github.com/minhphd/N-body-simulation)**: A Python-based n-body system simulator.
 - 🌠 **[Namesake-Scoped](https://github.com/minhphd/Namesake-Scoped)**: A Python Checker for Lexical Similarity in Identifier Names.
 
