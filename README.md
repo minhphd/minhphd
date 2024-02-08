@@ -33,6 +33,7 @@
   <img src="https://github.com/minhphd/RLforDummy/blob/main/media/humanoid.gif" alt="Humanoid" width="200px" height="200px"/>
 </div>
 
-
-*“Exploring the cosmos, one line of code at a time.”*
-
+<br/>
+<div align="center">
+  *“Exploring the cosmos, one line of code at a time.”*
+</div>
