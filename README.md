@@ -28,7 +28,7 @@
   <img src="https://github.com/minhphd/PyDreamerV1/blob/main/gif/walker.gif" alt="Actual run in " width="200px" height="200px"/>
 </div>
 <div align="center">
-  <img src="https://github.com/minhphd/RLforDummy/blob/main/media/ppo.gif" alt="Dreamer Walker" width="200px" height="200px"/>
+  <img src="https://github.com/minhphd/PyDreamerV1/blob/main/gif/quadruped.gif" alt="Dreamer Walker" width="200px" height="200px"/>
   <img src="https://github.com/minhphd/RLforDummy/blob/main/media/breakout.gif" alt="Breakout" width="200px" height="200px"/>
   <img src="https://github.com/minhphd/RLforDummy/blob/main/media/humanoid.gif" alt="Humanoid" width="200px" height="200px"/>
 </div>
